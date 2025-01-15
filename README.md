@@ -4,6 +4,7 @@ A Code With Chris Workshop of a full app he has developed for a Hackathon, desig
 
 Key Takeaways
 
+
 1. SwiftUI Design Principles
 
   Dynamic User Interfaces: Learned to build views like TodayView, ThingsView, and AddThingView, which adapt dynamically to user input and data changes.
@@ -21,6 +22,7 @@ Key Takeaways
   
   Environment Context: Learned to access and modify shared data contexts (@Environment(\.modelContext)) to manage app-wide data interactions.
 
+
 3. Feature Implementation
 
   Adding and Managing Data: Created the AddThingView to collect user input and dynamically add new items to the list.
@@ -28,6 +30,7 @@ Key Takeaways
   Daily Organization: Leveraged TodayView to filter and display tasks for the current day using contextual data queries.
   
   Reminder Functionality: Integrated user preferences with @AppStorage for managing reminders, showcasing the ability to persist settings across sessions.
+
 
 4. Project Structuring and Best Practices
 
